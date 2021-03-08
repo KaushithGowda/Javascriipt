@@ -1,0 +1,18 @@
+#btn,#btn2{
+    background-color: aqua;
+}
+#para,#para2{
+    background-color: aqua;
+}
+h1{
+    background-color: grey;
+    color: black;
+}
+p{
+    background-color: grey;
+    color: black;
+}
+.table1,.td{
+    border: none;
+    border-collapse: unset;
+}
